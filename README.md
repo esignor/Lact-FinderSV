@@ -79,7 +79,7 @@ Custom tracks were implemented to enhance the detection of structural variations
 
 ## ⚠️ Academic Use Notice
 
-This project was developed as part of a university assignment in Bioinformatics.
+This project was developed as part of a university assignment in Bioinformatics (LM-18 UniPd).
 
 **It is intended for educational purposes only.**
 Unauthorized copying, reuse, or submission of this work (in whole or in part) as original work for academic evaluation is strictly prohibited.
@@ -91,6 +91,8 @@ If you use or reference this project, **proper citation of the author is require
 ## ✍️ Author
 
 Eleonora Signor
+
+Master’s Degree in Computer Science University of Padua
 
 ---
 
