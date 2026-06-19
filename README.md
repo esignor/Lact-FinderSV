@@ -1,4 +1,4 @@
-# Bioinformatics – Structural Variation Detection (FinderSV)
+# Bioinformatics – Structural Variation Detection (Lact-FinderSV)
 
 ## 📌 Project Overview
 
@@ -33,12 +33,9 @@ The reference genome is *Lactobacillus casei*, while the target genome (*lact.sp
 ## 📂 Project Structure
 
 * `Code/` – Python scripts for track generation
-* `Resources/` – reference genome, reads, SAM/BAM files
-* `Wig/` – generated track files (.wig)
 * `Img/` – images from analysis
 * `Plot IGV/` – IGV screenshots
-* `Report/` – final report
-
+* `Wig/` – generated track files (.wig)
 ---
 
 ## 📊 Analysis Performed
@@ -94,12 +91,6 @@ If you use or reference this project, **proper citation of the author is require
 ## ✍️ Author
 
 Eleonora Signor
-
----
-
-## 📚 Keywords
-
-Bioinformatics, Structural Variations, Genome Resequencing, Mate-Pair Sequencing, BWA, Samtools, IGV, Coverage Analysis
 
 ---
 
