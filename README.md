@@ -1,4 +1,4 @@
-# Bioinformatics – Structural Variation Detection (FindSV)
+# Bioinformatics – Structural Variation Detection (FinderSV)
 
 ## 📌 Project Overview
 
